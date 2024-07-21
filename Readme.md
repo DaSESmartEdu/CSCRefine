@@ -7,6 +7,13 @@ This repository is dedicated to the refinement and improvement of Chinese Spelli
 
 - **Issue 1**: Commonly used benchmark datasets (SIGHAN13, SIGHAN14, and SIGHAN15) contain mistakes that affect the accuracy of model evaluations.
 - **Issue 2**: Existing models have reached a performance bottleneck with minimal and unstable improvements.
+- 
+## Contributions
+
+1. **Dataset Refinement**: We manually corrected the mistakes in the SIGHAN datasets and re-evaluated four representative CSC models using the fixed datasets. You can get the refined SIGHAN dataset from the following link
+    https://drive.google.com/drive/folders/1lmsPxmRmFrYnrrhQLKC4zGXCUtiyp-08?usp=drive_link
+   
+3. **Performance Improvement**: A simple yet effective refinement solution was proposed, which significantly improved the models' performance across all metrics without additional training.
 
 ## Models Evaluated
 
